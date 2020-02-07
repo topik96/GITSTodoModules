@@ -1,0 +1,16 @@
+PODS:
+  - GITSTodo (0.0.1)
+
+DEPENDENCIES:
+  - GITSTodo (from `../Todo-Modules/GITSTodo`)
+
+EXTERNAL SOURCES:
+  GITSTodo:
+    :path: "../Todo-Modules/GITSTodo"
+
+SPEC CHECKSUMS:
+  GITSTodo: d082bb4dc360901dae96ef1af6ac5c3b97d388d6
+
+PODFILE CHECKSUM: f2247d19bd490ff2b81ac7a9134c29c7314162dd
+
+COCOAPODS: 1.8.4
