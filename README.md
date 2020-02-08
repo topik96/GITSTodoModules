@@ -3,16 +3,16 @@ modules support objective c &amp; swift
 
 ## Usage in swift base project
 ```bash
-cd Todo-Main-Swift
-open Todo-Main-Swift.xcworkspace
-running (CMD+R)
+CD Todo-Main-Swift
+OPEN Todo-Main-Swift.xcworkspace
+RUNNING (CMD+R)
 ```
 
 
-## Usage module in objective c base project
+## Usage in objective c base project
 ```bash
-cd Todo-Main-Objc-C
-open Todo-Main-Objc-C.xcworkspace
-running (CMD+R)
+CD Todo-Main-Objc-C
+OPEN  Todo-Main-Objc-C.xcworkspace
+RUNNING (CMD+R)
 ```
 
